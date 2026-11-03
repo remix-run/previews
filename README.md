@@ -1,3 +1,3 @@
-# previews
+# Remix Preview Releases
 
-[Preview Releases](https://github.com/remix-run/previews/releases) for [Remix](https://github.com/remix-run/remix): 
+This repository contains [preview releases](https://github.com/remix-run/previews/releases) for the [Remix](https://github.com/remix-run/remix) web framework
